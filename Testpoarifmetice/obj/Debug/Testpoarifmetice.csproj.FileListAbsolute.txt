@@ -1,0 +1,10 @@
+C:\Users\aleks\Desktop\C #\Testpoarifmetice\bin\Debug\Testpoarifmetice.exe.config
+C:\Users\aleks\Desktop\C #\Testpoarifmetice\bin\Debug\Testpoarifmetice.exe
+C:\Users\aleks\Desktop\C #\Testpoarifmetice\bin\Debug\Testpoarifmetice.pdb
+C:\Users\aleks\Desktop\C #\Testpoarifmetice\obj\Debug\Testpoarifmetice.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\C #\Testpoarifmetice\obj\Debug\Testpoarifmetice.Form1.resources
+C:\Users\aleks\Desktop\C #\Testpoarifmetice\obj\Debug\Testpoarifmetice.Properties.Resources.resources
+C:\Users\aleks\Desktop\C #\Testpoarifmetice\obj\Debug\Testpoarifmetice.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\C #\Testpoarifmetice\obj\Debug\Testpoarifmetice.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\C #\Testpoarifmetice\obj\Debug\Testpoarifmetice.exe
+C:\Users\aleks\Desktop\C #\Testpoarifmetice\obj\Debug\Testpoarifmetice.pdb
