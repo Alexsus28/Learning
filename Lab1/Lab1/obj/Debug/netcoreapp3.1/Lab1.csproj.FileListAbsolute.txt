@@ -1,0 +1,26 @@
+S:\ИНО ОЗБ ИВТ-21\Лебедкин А.В\Програмирование\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+S:\ИНО ОЗБ ИВТ-21\Лебедкин А.В\Програмирование\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+S:\ИНО ОЗБ ИВТ-21\Лебедкин А.В\Програмирование\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+S:\ИНО ОЗБ ИВТ-21\Лебедкин А.В\Програмирование\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+S:\ИНО ОЗБ ИВТ-21\Лебедкин А.В\Програмирование\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+S:\ИНО ОЗБ ИВТ-21\Лебедкин А.В\Програмирование\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+S:\ИНО ОЗБ ИВТ-21\Лебедкин А.В\Програмирование\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+S:\ИНО ОЗБ ИВТ-21\Лебедкин А.В\Програмирование\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+S:\ИНО ОЗБ ИВТ-21\Лебедкин А.В\Програмирование\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+S:\ИНО ОЗБ ИВТ-21\Лебедкин А.В\Програмирование\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+S:\ИНО ОЗБ ИВТ-21\Лебедкин А.В\Програмирование\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+S:\ИНО ОЗБ ИВТ-21\Лебедкин А.В\Програмирование\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+S:\ИНО ОЗБ ИВТ-21\Лебедкин А.В\Програмирование\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
+C:\Users\aleks\Desktop\C #\програмирование\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\Users\aleks\Desktop\C #\програмирование\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\Users\aleks\Desktop\C #\програмирование\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\Users\aleks\Desktop\C #\програмирование\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\C #\програмирование\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\aleks\Desktop\C #\програмирование\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\aleks\Desktop\C #\програмирование\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\C #\програмирование\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\C #\програмирование\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\C #\програмирование\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\Users\aleks\Desktop\C #\програмирование\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\aleks\Desktop\C #\програмирование\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\aleks\Desktop\C #\програмирование\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
