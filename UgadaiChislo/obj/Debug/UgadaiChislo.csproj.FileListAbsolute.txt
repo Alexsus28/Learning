@@ -1,0 +1,20 @@
+S:\ИНО ОЗБ ИВТ-21\Силин А.О\UgadaiChislo\bin\Debug\UgadaiChislo.exe.config
+S:\ИНО ОЗБ ИВТ-21\Силин А.О\UgadaiChislo\bin\Debug\UgadaiChislo.exe
+S:\ИНО ОЗБ ИВТ-21\Силин А.О\UgadaiChislo\bin\Debug\UgadaiChislo.pdb
+S:\ИНО ОЗБ ИВТ-21\Силин А.О\UgadaiChislo\obj\Debug\UgadaiChislo.csprojAssemblyReference.cache
+S:\ИНО ОЗБ ИВТ-21\Силин А.О\UgadaiChislo\obj\Debug\UgadaiChislo.Form1.resources
+S:\ИНО ОЗБ ИВТ-21\Силин А.О\UgadaiChislo\obj\Debug\UgadaiChislo.Properties.Resources.resources
+S:\ИНО ОЗБ ИВТ-21\Силин А.О\UgadaiChislo\obj\Debug\UgadaiChislo.csproj.GenerateResource.cache
+S:\ИНО ОЗБ ИВТ-21\Силин А.О\UgadaiChislo\obj\Debug\UgadaiChislo.csproj.CoreCompileInputs.cache
+S:\ИНО ОЗБ ИВТ-21\Силин А.О\UgadaiChislo\obj\Debug\UgadaiChislo.exe
+S:\ИНО ОЗБ ИВТ-21\Силин А.О\UgadaiChislo\obj\Debug\UgadaiChislo.pdb
+C:\Users\aleks\Desktop\C #\UgadaiChislo\bin\Debug\UgadaiChislo.exe.config
+C:\Users\aleks\Desktop\C #\UgadaiChislo\bin\Debug\UgadaiChislo.exe
+C:\Users\aleks\Desktop\C #\UgadaiChislo\bin\Debug\UgadaiChislo.pdb
+C:\Users\aleks\Desktop\C #\UgadaiChislo\obj\Debug\UgadaiChislo.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\C #\UgadaiChislo\obj\Debug\UgadaiChislo.Form1.resources
+C:\Users\aleks\Desktop\C #\UgadaiChislo\obj\Debug\UgadaiChislo.Properties.Resources.resources
+C:\Users\aleks\Desktop\C #\UgadaiChislo\obj\Debug\UgadaiChislo.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\C #\UgadaiChislo\obj\Debug\UgadaiChislo.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\C #\UgadaiChislo\obj\Debug\UgadaiChislo.exe
+C:\Users\aleks\Desktop\C #\UgadaiChislo\obj\Debug\UgadaiChislo.pdb
