@@ -1,0 +1,10 @@
+C:\Users\aleks\Desktop\C #\Diagramma\bin\Debug\Diagramma.exe.config
+C:\Users\aleks\Desktop\C #\Diagramma\bin\Debug\Diagramma.exe
+C:\Users\aleks\Desktop\C #\Diagramma\bin\Debug\Diagramma.pdb
+C:\Users\aleks\Desktop\C #\Diagramma\obj\Debug\Diagramma.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\C #\Diagramma\obj\Debug\Diagramma.Form1.resources
+C:\Users\aleks\Desktop\C #\Diagramma\obj\Debug\Diagramma.Properties.Resources.resources
+C:\Users\aleks\Desktop\C #\Diagramma\obj\Debug\Diagramma.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\C #\Diagramma\obj\Debug\Diagramma.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\C #\Diagramma\obj\Debug\Diagramma.exe
+C:\Users\aleks\Desktop\C #\Diagramma\obj\Debug\Diagramma.pdb
