@@ -1,0 +1,10 @@
+C:\Users\aleks\source\repos\PerevozkaTovarov\obj\Debug\PerevozkaTovarov.csprojAssemblyReference.cache
+C:\Users\aleks\source\repos\PerevozkaTovarov\obj\Debug\PerevozkaTovarov.Form1.resources
+C:\Users\aleks\source\repos\PerevozkaTovarov\obj\Debug\PerevozkaTovarov.Properties.Resources.resources
+C:\Users\aleks\source\repos\PerevozkaTovarov\obj\Debug\PerevozkaTovarov.csproj.GenerateResource.cache
+C:\Users\aleks\source\repos\PerevozkaTovarov\obj\Debug\PerevozkaTovarov.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\PerevozkaTovarov\bin\Debug\PerevozkaTovarov.exe.config
+C:\Users\aleks\source\repos\PerevozkaTovarov\bin\Debug\PerevozkaTovarov.exe
+C:\Users\aleks\source\repos\PerevozkaTovarov\bin\Debug\PerevozkaTovarov.pdb
+C:\Users\aleks\source\repos\PerevozkaTovarov\obj\Debug\PerevozkaTovarov.exe
+C:\Users\aleks\source\repos\PerevozkaTovarov\obj\Debug\PerevozkaTovarov.pdb
